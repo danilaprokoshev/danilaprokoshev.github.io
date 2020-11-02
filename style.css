@@ -1,0 +1,25 @@
+.content {
+    background-color: grey;
+  }
+
+p {
+    color: black;
+}  
+
+ol {
+    color: black;
+}
+  
+#main-title {
+    color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.know h2 {
+    font-size: 32px;
+}
